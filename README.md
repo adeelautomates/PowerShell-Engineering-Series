@@ -2,9 +2,17 @@
 
 # Introduction
 
+Welcome to Adeel Automates!
+
 This repo contains the scripts, notes, and supporting assets for my YouTube “PowerShell Engineering on Microsoft Cloud” series.
 Where I teach Advanced PowerShell with the focus on Microsoft Cloud services. There is plenty of beginner courses out there but not enough
 courses that go beyond the 101s. This is my answer to that.
+
+Some episodes may not include a live demo where it doesn’t make sense.
+In those cases, refer to the folder matching the episode number below to find the relevant files.
+
+Be mindful that the code in these folders has been sanitized and does not point to real resources.
+You will need to plug in your own values for it to work in your environment.
 
 # Episodes in Chornological Order
 *Note: Go easy on my early videos. It was my first time ever recording, talking to a camera & editing.* 😅
@@ -31,7 +39,7 @@ courses that go beyond the 101s. This is my answer to that.
 | **018** | <a href="https://www.youtube.com/watch?v=kdu6TSOnqYE"><img src="https://img.youtube.com/vi/kdu6TSOnqYE/mqdefault.jpg" width="200" /></a> | **[SharePoint Graph API — Automate Your Sites!](https://www.youtube.com/watch?v=kdu6TSOnqYE)** |
 | **019** | <a href="https://www.youtube.com/watch?v=2fn7AZz3PkQ"><img src="https://img.youtube.com/vi/2fn7AZz3PkQ/mqdefault.jpg" width="200" /></a> | **[Excel Online Graph API — Automate Your Spreadsheets!](https://www.youtube.com/watch?v=2fn7AZz3PkQ)** |
 | **020** | <a href="https://www.youtube.com/watch?v=Hdc5V_mdNIs"><img src="https://img.youtube.com/vi/Hdc5V_mdNIs/mqdefault.jpg" width="200" /></a> | **[PowerShell Script - Identity Permissions Report](https://www.youtube.com/watch?v=Hdc5V_mdNIs)** |
-
+ **021** | <a href="https://www.youtube.com/watch?v=VLFmSs7GPRQ"><img src="https://img.youtube.com/vi/VLFmSs7GPRQ/mqdefault.jpg" width="200" /></a> | **[Storage Accounts Data Plane — Utilizing it for our Automations](https://www.youtube.com/watch?v=VLFmSs7GPRQ)** |
 
 
 

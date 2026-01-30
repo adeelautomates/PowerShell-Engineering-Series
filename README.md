@@ -2,9 +2,17 @@
 
 # Introduction
 
+Welcome to Adeel Automates!
+
 This repo contains the scripts, notes, and supporting assets for my YouTube “PowerShell Engineering on Microsoft Cloud” series.
 Where I teach Advanced PowerShell with the focus on Microsoft Cloud services. There is plenty of beginner courses out there but not enough
 courses that go beyond the 101s. This is my answer to that.
+
+Some episodes may not include a live demo where it doesn’t make sense.
+In those cases, refer to the folder matching the episode number below to find the relevant files.
+
+Be mindful that the code in these folders has been sanitized and does not point to real resources.
+You will need to plug in your own values for it to work in your environment.
 
 # Episodes in Chornological Order
 *Note: Go easy on my early videos. It was my first time ever recording, talking to a camera & editing.* 😅

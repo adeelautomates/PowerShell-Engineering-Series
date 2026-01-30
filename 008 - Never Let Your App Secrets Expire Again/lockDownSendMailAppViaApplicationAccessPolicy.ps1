@@ -1,3 +1,8 @@
+<#
+As mentioned in the video, use this in exchange online to lock an app registration with Send Mail Role to just a shared mailbox (or any email in your tenant)
+That way it can only send emails as it.
+#>
+
 # Install Module & authN to Exchange Online
 Install-Module ExchangeOnlineManagement
 Connect-ExchangeOnline

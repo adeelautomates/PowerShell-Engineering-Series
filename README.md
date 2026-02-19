@@ -40,7 +40,7 @@ You will need to plug in your own values for it to work in your environment.
 | **019** | <a href="https://www.youtube.com/watch?v=2fn7AZz3PkQ"><img src="https://img.youtube.com/vi/2fn7AZz3PkQ/mqdefault.jpg" width="200" /></a> | **[Excel Online Graph API — Automate Your Spreadsheets!](https://www.youtube.com/watch?v=2fn7AZz3PkQ)** |
 | **020** | <a href="https://www.youtube.com/watch?v=Hdc5V_mdNIs"><img src="https://img.youtube.com/vi/Hdc5V_mdNIs/mqdefault.jpg" width="200" /></a> | **[PowerShell Script - Identity Permissions Report](https://www.youtube.com/watch?v=Hdc5V_mdNIs)** |
  **021** | <a href="https://www.youtube.com/watch?v=VLFmSs7GPRQ"><img src="https://img.youtube.com/vi/VLFmSs7GPRQ/mqdefault.jpg" width="200" /></a> | **[Storage Accounts Data Plane — Utilizing it for our Automations](https://www.youtube.com/watch?v=VLFmSs7GPRQ)** |
-
-
+ **022** | <a href="https://www.youtube.com/watch?v=smKhyZ1xL6I"><img src="https://img.youtube.com/vi/smKhyZ1xL6I/mqdefault.jpg" width="200" /></a> | **[Automate App Registration Secrets with PowerShell](https://www.youtube.com/watch?v=smKhyZ1xL6I)** |
+ **023** | <a href="https://www.youtube.com/watch?v=IKMoYV7dR-A"><img src="https://img.youtube.com/vi/IKMoYV7dR-A/mqdefault.jpg" width="200" /></a> | **[.NET in PowerShell – The Framework That Powers It](https://www.youtube.com/watch?v=IKMoYV7dR-A)** |
 
 

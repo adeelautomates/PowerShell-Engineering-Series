@@ -42,5 +42,5 @@ You will need to plug in your own values for it to work in your environment.
  **021** | <a href="https://www.youtube.com/watch?v=VLFmSs7GPRQ"><img src="https://img.youtube.com/vi/VLFmSs7GPRQ/mqdefault.jpg" width="200" /></a> | **[Storage Accounts Data Plane — Utilizing it for our Automations](https://www.youtube.com/watch?v=VLFmSs7GPRQ)** |
  **022** | <a href="https://www.youtube.com/watch?v=smKhyZ1xL6I"><img src="https://img.youtube.com/vi/smKhyZ1xL6I/mqdefault.jpg" width="200" /></a> | **[Automate App Registration Secrets with PowerShell](https://www.youtube.com/watch?v=smKhyZ1xL6I)** |
  **023** | <a href="https://www.youtube.com/watch?v=IKMoYV7dR-A"><img src="https://img.youtube.com/vi/IKMoYV7dR-A/mqdefault.jpg" width="200" /></a> | **[.NET in PowerShell – The Framework That Powers It](https://www.youtube.com/watch?v=IKMoYV7dR-A)** |
-
+ **024** | <a href="https://www.youtube.com/watch?v=95oe6UndeAk"><img src="https://img.youtube.com/vi/95oe6UndeAk/mqdefault.jpg" width="200" /></a> | **[.NET in PowerShell – Build Your Own Class!](https://www.youtube.com/watch?v=95oe6UndeAk)** |
 

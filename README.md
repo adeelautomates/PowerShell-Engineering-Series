@@ -19,6 +19,7 @@ You will need to plug in your own values for it to work in your environment.
 
 | # | Thumbnail | Episode |
 |---|---|---|
+| **000** | <a href="https://www.youtube.com/watch?v=csZAASsflj0"><img src="https://img.youtube.com/vi/csZAASsflj0/mqdefault.jpg" width="200" /></a> | **[If You’re Serious About Azure, Entra & M365… You Need PowerShell](https://www.youtube.com/watch?v=csZAASsflj0)** |
 | **001** | <a href="https://www.youtube.com/watch?v=FfvbNT9YpXs"><img src="https://img.youtube.com/vi/FfvbNT9YpXs/mqdefault.jpg" width="200" /></a> | **[Learn Powershell Through Azure](https://www.youtube.com/watch?v=FfvbNT9YpXs)** |
 | **002** | <a href="https://www.youtube.com/watch?v=LT_UNGg0yV4"><img src="https://img.youtube.com/vi/LT_UNGg0yV4/mqdefault.jpg" width="200" /></a> | **[Azure Automation Account Deep Dive](https://www.youtube.com/watch?v=LT_UNGg0yV4)** |
 | **003** | <a href="https://www.youtube.com/watch?v=uLUGbpPgKFA"><img src="https://img.youtube.com/vi/uLUGbpPgKFA/mqdefault.jpg" width="200" /></a> | **[Deploy Azure Runbooks Straight from GitHub!](https://www.youtube.com/watch?v=uLUGbpPgKFA)** |

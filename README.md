@@ -8,9 +8,6 @@ This repo contains the scripts, notes, and supporting assets for my YouTube “P
 Where I teach Advanced PowerShell with the focus on Microsoft Cloud services. There is plenty of beginner courses out there but not enough
 courses that go beyond the 101s. This is my answer to that.
 
-Some episodes may not include a live demo where it doesn’t make sense.
-In those cases, refer to the folder matching the episode number below to find the relevant files.
-
 Be mindful that the code in these folders has been sanitized and does not point to real resources.
 You will need to plug in your own values for it to work in your environment.
 
@@ -19,6 +16,7 @@ You will need to plug in your own values for it to work in your environment.
 
 | # | Thumbnail | Episode |
 |---|---|---|
+| **000** | <a href="https://www.youtube.com/watch?v=csZAASsflj0"><img src="https://img.youtube.com/vi/csZAASsflj0/mqdefault.jpg" width="200" /></a> | **[If You’re Serious About Azure, Entra & M365… You Need PowerShell](https://www.youtube.com/watch?v=csZAASsflj0)** |
 | **001** | <a href="https://www.youtube.com/watch?v=FfvbNT9YpXs"><img src="https://img.youtube.com/vi/FfvbNT9YpXs/mqdefault.jpg" width="200" /></a> | **[Learn Powershell Through Azure](https://www.youtube.com/watch?v=FfvbNT9YpXs)** |
 | **002** | <a href="https://www.youtube.com/watch?v=LT_UNGg0yV4"><img src="https://img.youtube.com/vi/LT_UNGg0yV4/mqdefault.jpg" width="200" /></a> | **[Azure Automation Account Deep Dive](https://www.youtube.com/watch?v=LT_UNGg0yV4)** |
 | **003** | <a href="https://www.youtube.com/watch?v=uLUGbpPgKFA"><img src="https://img.youtube.com/vi/uLUGbpPgKFA/mqdefault.jpg" width="200" /></a> | **[Deploy Azure Runbooks Straight from GitHub!](https://www.youtube.com/watch?v=uLUGbpPgKFA)** |
@@ -42,5 +40,5 @@ You will need to plug in your own values for it to work in your environment.
  **021** | <a href="https://www.youtube.com/watch?v=VLFmSs7GPRQ"><img src="https://img.youtube.com/vi/VLFmSs7GPRQ/mqdefault.jpg" width="200" /></a> | **[Storage Accounts Data Plane — Utilizing it for our Automations](https://www.youtube.com/watch?v=VLFmSs7GPRQ)** |
  **022** | <a href="https://www.youtube.com/watch?v=smKhyZ1xL6I"><img src="https://img.youtube.com/vi/smKhyZ1xL6I/mqdefault.jpg" width="200" /></a> | **[Automate App Registration Secrets with PowerShell](https://www.youtube.com/watch?v=smKhyZ1xL6I)** |
  **023** | <a href="https://www.youtube.com/watch?v=IKMoYV7dR-A"><img src="https://img.youtube.com/vi/IKMoYV7dR-A/mqdefault.jpg" width="200" /></a> | **[.NET in PowerShell – The Framework That Powers It](https://www.youtube.com/watch?v=IKMoYV7dR-A)** |
-
+ **024** | <a href="https://www.youtube.com/watch?v=95oe6UndeAk"><img src="https://img.youtube.com/vi/95oe6UndeAk/mqdefault.jpg" width="200" /></a> | **[.NET in PowerShell – Build Your Own Class!](https://www.youtube.com/watch?v=95oe6UndeAk)** |
 

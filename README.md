@@ -46,3 +46,14 @@ You will need to plug in your own values for it to work in your environment.
 | **027** | <a href="https://www.youtube.com/watch?v=3ehLkgsgyvg"><img src="https://img.youtube.com/vi/3ehLkgsgyvg/mqdefault.jpg" width="200" /></a> | **[Query Azure in Seconds - KQL Explained](https://www.youtube.com/watch?v=3ehLkgsgyvg)** <br>Explore Azure Resource Graph while learning how KQL works. Bonus get the fastest query possible to get all RBAC permissions!|
 | **028** | <a href="https://www.youtube.com/watch?v=8sLxLRJ_dB4"><img src="https://img.youtube.com/vi/8sLxLRJ_dB4/mqdefault.jpg" width="200" /></a> | **[Log Analytics Explained](https://www.youtube.com/watch?v=8sLxLRJ_dB4)** <br>Explore Log Analytics and how we can use KQL here as well. Bonus build an automation that alets when runbooks fails|
 | **029** | <a href="https://www.youtube.com/watch?v=pP43VQ7577s"><img src="https://img.youtube.com/vi/pP43VQ7577s/mqdefault.jpg" width="200" /></a> | **[Azure Policy Explained + Automation for Ownership Governance](https://www.youtube.com/watch?v=pP43VQ7577s)** <br>Explore Azure Policy while building a robust system to ensure owner tags are always present in your org. |
+
+
+# Support the channel
+
+I believe good technical education should be accessible.
+
+Every tutorial I create is free to watch, and I don't lock content behind memberships or paid courses.
+
+If my work has helped you, consider buying me a coffee. Your support helps cover the time and resources that go into producing new videos.
+
+<a href="buymeacoffee.com/adeelautomates" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>

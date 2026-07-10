@@ -48,7 +48,7 @@ You will need to plug in your own values for it to work in your environment.
 | **029** | <a href="https://www.youtube.com/watch?v=pP43VQ7577s"><img src="https://img.youtube.com/vi/pP43VQ7577s/mqdefault.jpg" width="200" /></a> | **[Azure Policy Explained + Automation for Ownership Governance](https://www.youtube.com/watch?v=pP43VQ7577s)** <br>Explore Azure Policy while building a robust system to ensure owner tags are always present in your org. |
 
 
-### Support the channel
+### Support The Channel
 
 I believe good technical education should be accessible.
 

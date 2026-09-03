@@ -1,12 +1,19 @@
+<#  
+    Example of Exchange RBAC to send emails as one account
+    - With a service principal in Entra (App Registration and/or managed identity)
+    - Plus a shared mailbox you want to send email as
+    - Run the Following
+#>
+
 #--- AuthN
 # Install-Module ExchangeOnlineManagement
 Connect-ExchangeOnline 
 
 #--- Variables
-$spName     = "la-test-email-001"
-$spAppId    = "fa1a5704-2692-4738-b2d2-7bb7611f6f67"
-$spObjectId = "387d71d1-3744-4a8d-8fb6-604422ff62c4"
-$scope = "corpo-automation@lb4s.onmicrosoft.com"
+$spName     = "<NAME OF SERVICE PRINCIPAL>"
+$spAppId    = "<APPLICATION/CLIENT ID OF SERVICE PRINCIPAL>"
+$spObjectId = "<OBJECT ID OF SERVICE PRINCIPAL>"
+$scope = "no-reply@company.com"
 $role = "Application Mail.Send"
 
 #--- Create Service Principal
@@ -24,4 +31,4 @@ get-ManagementScope # Get all scopes you made
 Get-Recipient -RecipientPreviewFilter "EmailAddresses -eq '$scope'" # Practice building a scope with this cmdlet before using one. The outputed item(s) are what will get the permissions
 Get-ManagementRole | Where-Object Name -Like "Application*" | Format-Table Name, Description # Collect Roles
 Get-ManagementRoleAssignment -RoleAssigneeType "ServicePrincipal" # See all assignments
-Test-ServicePrincipalAuthorization -Identity $spObjectId -Resource "corpo-automation@lb4s.onmicrosoft.com" # Test Assignment
+Test-ServicePrincipalAuthorization -Identity $spObjectId -Resource "no-reply@company.com" # Test Assignment

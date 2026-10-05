@@ -50,11 +50,10 @@ You will need to plug in your own values for it to work in your environment.
 
 
 ### Support The Channel
-
 I believe good technical education should be accessible.
 
 Every tutorial I create is free to watch, and I don't lock content behind memberships or paid courses.
 
 If my work has helped you, consider buying me a coffee. Your support helps cover the time and resources that go into producing new videos.
 
-<a href="buymeacoffee.com/adeelautomates" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://buymeacoffee.com/adeelautomates" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
